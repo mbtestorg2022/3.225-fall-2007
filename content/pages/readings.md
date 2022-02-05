@@ -57,36 +57,330 @@ Suresh, Subra. _Fatigue of Materials_. 2nd ed. New York, NY: Cambridge Universit
 
 Gibson, Lorna J., and Michael F. Ashby. _Cellular Solids: Structure and Properties_. 2nd ed. New York, NY: Cambridge University Press, 1997. ISBN: 9780521495608.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Mechanical properties**{{< /td-colspan >}} |||
-| 1 | Elasticity: stress, strain, linear elastic behaviour; measurement of Young's modulus | &nbsp; |
-| 2 | Elasticity: generalized Hooke's law, strain energy | &nbsp; |
-| 3 | Elasticity: physical origin of modulus for crystalline and rubbery materials; control of modulus; composites | MBM chapter 3 |
-| 4 | Elasticity: thermo-elastic analysis of layered materials; Stoney's formula for thin films on thick substrates | &nbsp; |
-| 5 | Viscoelasticity: creep and relaxation tests; linear viscoelasticity; Boltzmann superposition principle | RWH chapter 6 |
-| 6 | Viscoelasticity: spring-dashpot models, time-temperature equivalence for amorphous polymers, role of diffusion |
-| 7 | Plasticity: plastic behaviour; data for yield strength; equations of plasticity: yield criteria | RWH chapter 2, MBM chapter 7 |
-| 8 | Plasticity: dislocation mechanics |
-| 9 | Plasticity: mechanism of low temperature plasticity; temperature dependence of yield strength |
-| 10 | Plasticity: microstructural strengthening mechanisms |
-| 11 | Fracture: Griffith crack theory; stress analysis of cracks; crack-tip plastic zone size; measurement of fracture toughness | RWH chapters 5, 7, MBM chapter 7 |
-| 12 | Materials selection: optimization; material performance indices; materials selection charts; case studies | Handout |
-| 13 | Quiz 1 | &nbsp; |
-| {{< td-colspan 3 >}}**Electrical, optical, and magnetic properties**{{< /td-colspan >}} |||
-| 14 | Micro to macro: conductivity | JDL chapters 1-2 |
-| 15 | Electromagnetic waves in materials |
-| 16 | Wave-particle duality | &nbsp; |
-| 17 | Fermi-Dirac, energy levels | &nbsp; |
-| 18 | Bloch model, band gaps | JDL chapters 8-10 |
-| 19 | Metals and insulators | &nbsp; |
-| 20 | Semiconductors | JDL chapters 12, 13, 15, 16.1-16.4 |
-| 21 | Doping and conductivity |
-| 22 | p-n junctions | JDL chapters 16.8-16.9 |
-| 23 | Dielectrics and polarization | JDL chapter 3 |
-| 24 | Optical fiber properties | JDL chapter 4 |
-| 25 | Magnetic materials | JDL chapter 5 |
-| 26 | Quiz 2 |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Mechanical properties**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Elasticity: stress, strain, linear elastic behaviour; measurement of Young's modulus
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Elasticity: generalized Hooke's law, strain energy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Elasticity: physical origin of modulus for crystalline and rubbery materials; control of modulus; composites
+{{< tdclose >}}
+{{< tdopen >}}
+MBM chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Elasticity: thermo-elastic analysis of layered materials; Stoney's formula for thin films on thick substrates
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Viscoelasticity: creep and relaxation tests; linear viscoelasticity; Boltzmann superposition principle
+{{< tdclose >}}
+{{< tdopen >}}
+RWH chapter 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Viscoelasticity: spring-dashpot models, time-temperature equivalence for amorphous polymers, role of diffusion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Plasticity: plastic behaviour; data for yield strength; equations of plasticity: yield criteria
+{{< tdclose >}}
+{{< tdopen >}}
+RWH chapter 2, MBM chapter 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Plasticity: dislocation mechanics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Plasticity: mechanism of low temperature plasticity; temperature dependence of yield strength
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Plasticity: microstructural strengthening mechanisms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Fracture: Griffith crack theory; stress analysis of cracks; crack-tip plastic zone size; measurement of fracture toughness
+{{< tdclose >}}
+{{< tdopen >}}
+RWH chapters 5, 7, MBM chapter 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Materials selection: optimization; material performance indices; materials selection charts; case studies
+{{< tdclose >}}
+{{< tdopen >}}
+Handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Electrical, optical, and magnetic properties**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Micro to macro: conductivity
+{{< tdclose >}}
+{{< tdopen >}}
+JDL chapters 1-2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Electromagnetic waves in materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Wave-particle duality
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Fermi-Dirac, energy levels
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Bloch model, band gaps
+{{< tdclose >}}
+{{< tdopen >}}
+JDL chapters 8-10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Metals and insulators
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Semiconductors
+{{< tdclose >}}
+{{< tdopen >}}
+JDL chapters 12, 13, 15, 16.1-16.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Doping and conductivity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+p-n junctions
+{{< tdclose >}}
+{{< tdopen >}}
+JDL chapters 16.8-16.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Dielectrics and polarization
+{{< tdclose >}}
+{{< tdopen >}}
+JDL chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Optical fiber properties
+{{< tdclose >}}
+{{< tdopen >}}
+JDL chapter 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic materials
+{{< tdclose >}}
+{{< tdopen >}}
+JDL chapter 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 JDL = Livingston, J. D. _Electronic Properties of Engineering Materials_. Wiley, 1999.
 

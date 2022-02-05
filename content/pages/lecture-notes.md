@@ -8,18 +8,171 @@ This page contains lecture slides from the electric, optical, and magnetic prope
 
 Elasticity topics ([PDF]({{< baseurl >}}/resources/elasticity))
 
-| SES # | TOPICS | LECTURES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Electrical, optical, and magnetic properties**{{< /td-colspan >}} |||
-| 14 | Micro to macro: conductivity | ([PDF]({{< baseurl >}}/resources/lecture_1)) |
-| 15 | Electromagnetic waves in materials | ([PDF]({{< baseurl >}}/resources/lecture_2)) |
-| 16 | Wave-particle duality | ([PDF - 1.2 MB]({{< baseurl >}}/resources/lecture_3)) |
-| 17 | Fermi-Dirac, energy levels | ([PDF]({{< baseurl >}}/resources/lecture_4)) |
-| 18 | Bloch model, band gaps | ([PDF]({{< baseurl >}}/resources/lecture_5)) |
-| 19 | Metals and insulators | ([PDF]({{< baseurl >}}/resources/lecture_6)) |
-| 20 | Semiconductors | ([PDF]({{< baseurl >}}/resources/lecture_7)) |
-| 21 | Doping and conductivity | ([PDF]({{< baseurl >}}/resources/lecture_8)) |
-| 22 | p-n junctions | ([PDF]({{< baseurl >}}/resources/lecture_9)) |
-| 23 | Dielectrics and polarization | ([PDF]({{< baseurl >}}/resources/lecture_10)) |
-| 24 | Optical fiber properties | ([PDF]({{< baseurl >}}/resources/lecture_11)) |
-| 25 | Magnetic materials | ([PDF]({{< baseurl >}}/resources/lecture_12))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Electrical, optical, and magnetic properties**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Micro to macro: conductivity
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture_1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Electromagnetic waves in materials
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Wave-particle duality
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.2 MB]({{< baseurl >}}/resources/lecture_3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Fermi-Dirac, energy levels
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture_4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Bloch model, band gaps
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture_5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Metals and insulators
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture_6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Semiconductors
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture_7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Doping and conductivity
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture_8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+p-n junctions
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture_9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Dielectrics and polarization
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture_10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Optical fiber properties
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture_11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic materials
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture_12))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
