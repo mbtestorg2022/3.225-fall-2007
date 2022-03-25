@@ -9,21 +9,21 @@ This page contains exams for both parts of this course, as well as solutions and
 Mechanical Properties
 ---------------------
 
-2001 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.3 MB]({{< baseurl >}}/resources/m2001))
+2001 ([PDF - 4.3 MB]({{< baseurl >}}/resources/m2001))
 
 2002 ([PDF - 5.6 MB]({{< baseurl >}}/resources/m2002))
 
-2003 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.4 MB]({{< baseurl >}}/resources/m2003))
+2003 ([PDF - 3.4 MB]({{< baseurl >}}/resources/m2003))
 
-2004 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5 MB]({{< baseurl >}}/resources/m2004))
+2004 ([PDF - 2.5 MB]({{< baseurl >}}/resources/m2004))
 
-2005 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/m2005))
+2005 ([PDF - 1.1 MB]({{< baseurl >}}/resources/m2005))
 
 2006 ([PDF]({{< baseurl >}}/resources/m2006))
 
 2007 ([PDF]({{< baseurl >}}/resources/m2007))
 
-Solution 2007 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m2007sol))
+Solution 2007 ([PDF]({{< baseurl >}}/resources/m2007sol))
 
 Electrical, Optical, and Magnetic Properties
 --------------------------------------------
